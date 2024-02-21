@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a portfolio website as my first project.<br>I'm also pursuing my Bachelor of Software Engineering (Honours) Degree as a final year student.<br>I'm completing my internship of 6 months at Finexus International Sdn Bhd.
+I'm currently working on a portfolio website as my first project.<br>Pursuing my Bachelor of Software Engineering (Honours) Degree full-time as a final year student.<br>I'm completing my internship of 6 months at Finexus International Sdn Bhd as a Full Stack Developer.<br><br>Interests include AI, Cybersecurity and Data Science.
 
 
 ## 🌐 Socials:
