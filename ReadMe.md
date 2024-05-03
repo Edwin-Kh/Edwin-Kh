@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on several projects to add to my portfolio including that revolves around topics such as data visualisation, machine learning model, steganography watermarking, and a personal blog website.<br>Presently pursuing my Bachelor of Software Engineering (Honours) Degree full-time as a final year student.<br>Completed an internship of 6 months at Finexus International Sdn Bhd as a Front-End Developer.<br><br>I am interested in several areas within the tech sphere including Web Development, Artificial Intelligence, Cybersecurity and Data Science.
+I'm currently working on several projects to add to my portfolio including that revolves around topics such as data visualisation, machine learning model, steganography watermarking, and a personal blog website.<br>Recently completing my Bachelor of Software Engineering (Honours) Degree, and an internship of 6 months at Finexus International Sdn Bhd as a Front-End Developer.<br><br>I am interested in several areas within the tech sphere including Web Development, Artificial Intelligence, Cybersecurity and Data Science.
 
 
 ## 🌐 You can find more about me on:
